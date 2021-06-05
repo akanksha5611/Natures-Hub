@@ -1,6 +1,9 @@
 # Natures-Hub
-This is a portfolio site the displays some of my photography, broken up into various categories such asAnimals
-Monuments , Sunsets photography.
+
+The theme choosen is photography !
+
+This is a portfolio site the displays some of my photography, broken up into various categories such as
+Animals , Monuments , Sunsets photography.
 It mainly focuses on the FrontEnd Development. 
 
 Main categories on Photography Portfolio site
